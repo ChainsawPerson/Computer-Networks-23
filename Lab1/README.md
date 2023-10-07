@@ -1,5 +1,5 @@
 # __Intro to Wireshark__
-###### [Back](/Computer-Networks-23)
+###### [Back](Computer-Networks-23/)
 
 **Warning:** Lab computers may be useless for the first and second parts of the excercise. 
 
