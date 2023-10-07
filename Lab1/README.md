@@ -11,4 +11,9 @@ Personal Recommendation (choose one of these):
 
 *For part 3:* Uni lab computer
 
-### Commands differ for Linux/Unix and MacOS
+**Commands may differ for Linux/Unix and MacOS**
+
+# Useful links:
+- [Ifconfig](https://en.wikipedia.org/wiki/Ifconfig)
+- [Netstat](https://en.wikipedia.org/wiki/Netstat)
+- [Iproute2](https://en.wikipedia.org/wiki/Iproute2)
