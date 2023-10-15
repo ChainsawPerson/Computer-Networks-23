@@ -3,6 +3,8 @@ Computer Networks NTUA 2023-24
 
 Lab Exercises for Computer Networks NTUA 7th Semester
 
-Lab Excercises:
-# [1. Wireshark](/Lab1)
-# [2. Encapsulation Layers](/Lab2)
+# Lab Excercises:
+## [1. Wireshark](/Lab1)
+## [2. Encapsulation Layers](/Lab2)
+
+### If you have any problems / questions for me feel free to contact me~ :D
