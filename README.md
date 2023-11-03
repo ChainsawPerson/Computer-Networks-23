@@ -7,6 +7,7 @@ Lab Exercises for Computer Networks NTUA 7th Semester
 ## [1. Wireshark](/Lab1)
 ## [2. Encapsulation Layers](/Lab2)
 ## [3. Communication in local networks](/Lab3)
+## [4. Protocol IPv4 and Fragmentation](/Lab4)
 
 ### If you have any problems / questions for me feel free to [contact me~](https://github.com/ChainsawPerson)
 
