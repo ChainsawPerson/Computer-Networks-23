@@ -10,6 +10,7 @@ Lab Exercises for Computer Networks NTUA 7th Semester
 ## [4. Protocol IPv4 and Fragmentation](/Lab4)
 ## [5. Internet Exploration](/Lab5)
 ## [6. ICMP Protocol](/Lab6)
+## [7. TCP and UDP Protocols](/Lab7)
 
 ### If you have any problems / questions for me feel free to [contact me~](https://github.com/ChainsawPerson)
 
