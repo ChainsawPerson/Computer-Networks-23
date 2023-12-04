@@ -18,4 +18,10 @@ Same for the TFTP Client
 
 Now you will need to add a rule in the firewall to allow the tftp.exe:
 - Open Control Panel by searching for control panel in the Start menu. ...
-- 
+- Select System and Security -> Windows Defender Firewall -> Advanced Settings -> Inbound Rules
+- New Rule... -> Program -> This program path: C:\Windows\System32\TFTP.EXE -> Allow the connection -> Check all -> Name it
+- Enable the new rule
+
+And you should be ready to go :D
+
+Reminder to first enable TFTP Client before adding the rule, otherwise TFTP.EXE will not exist :)
