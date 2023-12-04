@@ -25,3 +25,6 @@ Now you will need to add a rule in the firewall to allow the tftp.exe:
 And you should be ready to go :D
 
 Reminder to first enable TFTP Client before adding the rule, otherwise TFTP.EXE will not exist :)
+
+### Personal Opinion
+In my opinion this is one of the easiest excercises we've had and it took me about 2 seperate days to finish
