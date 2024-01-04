@@ -14,6 +14,7 @@ Lab Exercises for Computer Networks NTUA 7th Semester
 ## [8. TELNET, FTP & TFTP](/Lab8)
 ## [9. SMTP, DHCP](/Lab9)
 ## [10. Domain Name System DNS](/Lab10)
+## [11. Navigation in the World Wide Web](/Lab11)
 
 ### If you have any problems / questions for me feel free to [contact me~](https://github.com/ChainsawPerson)
 
